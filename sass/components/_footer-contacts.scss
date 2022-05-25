@@ -5,6 +5,9 @@
     text-align: start;
     margin-bottom: 0;
   }
+  @media screen and (min-width: 768px) {
+    margin-bottom: 0;
+  }
 }
 .footer-address {
   margin-top: 20px;
